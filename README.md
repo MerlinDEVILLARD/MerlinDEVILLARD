@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub
 
-<!--
-**MerlinDEVILLARD/MerlinDEVILLARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://example.com/header.png)
 
-Here are some ideas to get you started:
+## À propos de moi
+Je suis un développeur passionné par la technologie et l'open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travaille actuellement sur [Projet XYZ](https://github.com/username/projet-xyz)
+- 🌱 J'apprends actuellement **React** et **Node.js**
+- 💬 Demandez-moi n'importe quoi sur **Python** et **Django**
+- 📫 Comment me contacter : [email@example.com](mailto:email@example.com)
+- 😄 Pronoms : Il/Lui
+- ⚡ Fait amusant : J'adore le café ☕
+
+## Projets en vedette
+- [Projet 1](https://github.com/username/projet-1) : Description du projet 1
+- [Projet 2](https://github.com/username/projet-2) : Description du projet 2
