@@ -5,9 +5,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/MerlinDEVILLARD?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/MerlinDEVILLARD?label=Stars&style=social)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerlinDEVILLARD&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerlinDEVILLARD&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlinDEVILLARD&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlinDEVILLARD&layout=compact&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MerlinDEVILLARD&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MerlinDEVILLARD&theme=dracula)
 
